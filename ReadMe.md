@@ -2,46 +2,46 @@ It is always good to push yourself to think hard and aim the optimal solution in
 
 I like to start to put together 100 hard level algorithms practice and learning here. Those hard level algorithms change my life as a sofware programmer. I need to get organized and also strive to think more often for those hard level algorithms. 
 
-A
-B
-C
+A<br>
+B<br>
+C<br>
 
-D
+D<br>
 Deletion distance
 
-E
-F
-G
-H
+E<br>
+F<br>
+G<br>
+H<br>
 
 I <br>
 Infix expression to binary expression tree
 
-J
-K
-L
-M
-N
-O
+J<br>
+K<br>
+L<br>
+M<br>
+N<br>
+O<br>
 
-P
+P<br>
 Pigeon hole principle
 
-Q
+Q<br>
 
-R
+R<br>
 Regular expression matching
 
-S
-Sliding window
-Sliding window maximum
-Sliding windows minimum
-Sudoku solver
+S<br>
+Sliding window<br>
+Sliding window maximum<br>
+Sliding windows minimum<br>
+Sudoku solver<br>
 
-T
-U
-V
-W
-X
-Y
-Z
+T<br>
+U<br>
+V<br>
+W<br>
+X<br>
+Y<br>
+Z<br>
