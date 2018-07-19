@@ -2,9 +2,7 @@ July 18, 2018
 
 Introduction
 
-It is hard level algorithm and I have to review the algorithm first. Most of important is that I have to understand how to write working code, and then pass online judge. I reviewed one of 
-
-submissions I did more than 6 months ago. 
+It is hard level algorithm and I have to review the algorithm first. Most of important is that I have to understand how to write working code, and then pass online judge. I reviewed one of submissions I did more than 6 months ago. 
 
 Most of important is to write a story how to solve the problem using test case "()())()". I found this test case through my last submission. I have to explain my solution based on this test case. 
 
