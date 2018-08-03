@@ -51,7 +51,7 @@ namespace Leetcode_23_Merge_K_Sorted_Lists
             }
 
             public ListNode PopMin()
-            {
+            {               
                 int minKey = map.First().Key;
                 var node   = map[minKey].Dequeue();
 
