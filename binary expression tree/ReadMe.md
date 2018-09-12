@@ -10,9 +10,7 @@ Study binary expression tree, and also read the article and code to convert infi
 
 Blogs related to study are the following:
 
-
-http://juliachencoding.blogspot.com/2018/07/binary-expression-tree-study.html
-
+[2018 July blog](http://juliachencoding.blogspot.com/2018/07/binary-expression-tree-study.html)
 
 http://juliachencoding.blogspot.com/2018/07/infix-expression-to-construct-binary.html
 
