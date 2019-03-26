@@ -1,104 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace unionFindPractice
+namespace Union_Find_Algorithm
 {
-    /// <summary>
-    /// 2019-03-26
-    /// I look up my Tsinghua coach sessions, and here is the session for union join:
-    /// 
-    /// </summary>
     class Program
     {
         static void Main(string[] args)
-        {            
-            var existingRoads = new List<int[]>();
-           
-            existingRoads.Add(new int[]{1, 4});
-            existingRoads.Add(new int[]{2, 3});
-            existingRoads.Add(new int[]{4, 5});
-
-            var newRoads = new List<int[]>();
-            newRoads.Add(new int[]{1, 2, 5});
-            newRoads.Add(new int[]{1, 3, 10});
-            newRoads.Add(new int[]{5, 6, 5});
-            newRoads.Add(new int[]{1, 6, 2});
-
-            var result = getMinimumCost(6, existingRoads, 4, newRoads);
-            Debug.Assert(result == 7);
-        }
-
-        /// <summary>
-        /// assume that maximum number of cities is 50
-        /// Map new road as integer quickly. 
-        /// </summary>
-        /// <param name="noCities"></param>
-        /// <param name="existingRoads"></param>
-        /// <param name="newRoads"></param>
-        /// <param name="roadWithCost"></param>
-        /// <returns></returns>
-        public static int getMinimumCost(
-            int noCities,
-            List<int[]> existingRoads,
-            int newRoads,
-            List<int[]> roadWithCost)
         {
-            var quickUnion = new QuickUnion(noCities);
-            foreach (var item in existingRoads)
-            {
-                // adjust the value of id from 0 to N - 1
-                quickUnion.Union(item[0] - 1, item[1] - 1);
-            }
-
-            int count = quickUnion.GetCount();
-
-            var newRoadMap = new Dictionary<int, List<int>>();
-            foreach (int[] item in roadWithCost)
-            {
-                var id1 = item[0] - 1;
-                var id2 = item[1] - 1;
-                var roadCost = item[2];
-
-                var newId = id1 * 50 + id2;
-                if (!newRoadMap.ContainsKey(roadCost))
-                {
-                    newRoadMap.Add(roadCost, new List<int>());
-                }
-
-                newRoadMap[roadCost].Add(newId);
-            }
-
-            var costs = newRoadMap.Keys.ToArray();
-            Array.Sort(costs);
-
-            var length = costs.Length;
-            var totalCost = 0; 
-            for (int i = 0; i < length; i++)
-            {
-                var current = costs[i];
-                var ids = newRoadMap[current];
-                foreach (var id in ids)
-                {
-                    var id1 = id % 50;
-                    var id2 = id / 50;
-
-                    var connected = quickUnion.Connected(id1, id2);
-                    if (connected)
-                        continue;
-
-                    totalCost += current;
-                    quickUnion.Union(id1, id2); // Union, not Connected
-                }
-            }
-
-            if (quickUnion.GetCount() > 1)
-                return -1;
-
-            return totalCost; 
         }
 
         /// <summary>
@@ -212,7 +123,7 @@ namespace unionFindPractice
             /// <returns></returns>
             public bool Connected(int p, int q)
             {
-                return QuickFind(p) == QuickFind(q);                
+                return QuickFind(p) == QuickFind(q);
             }
         }
     }
