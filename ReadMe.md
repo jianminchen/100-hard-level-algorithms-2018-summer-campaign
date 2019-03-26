@@ -42,8 +42,17 @@ Sudoku solver<br>
 
 T<br>
 U<br>
+Union find algorithm and practice March 26, 2019 <br>
 V<br>
 W<br>
 X<br>
 Y<br>
 Z<br>
+
+**2019-03-26**<br>
+It is so interesting to learn the lesson again. I have to spend more time to work on union find algorithm, since I could not find one copy of code called UnionFind class which is trustable. And secondly I do not get familiar with APIs. <br>
+I need to memorize all APIs first. <br>
+I need to learn how to analyze the time complexity as well. <br>
+I need to practice to write a solution based on union find algorithm, and finish it in 45 minutes. <br>
+I need to work on the algorithm once a week, once a month, or once a three months. <br>
+
