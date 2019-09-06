@@ -16,3 +16,14 @@ Sept. 6, 2019<br>
 In order to understand SortedDictionary.First, I need to study and memorize all APIs for IEnumerable interface. I also need to customize minimum heap/ max heap according by defining key value, one tip is to use negative value to turn maximum heap to minimum heap easily. 
 
 [Here](https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.first?view=netframework-4.8) is the page I should read and memorize. 
+
+Another data structure to look into <br>
+
+BTree - self-balancing binary search tree<br>
+Skip Lists - A linked list with self-balancing BST-like properties<br>
+
+
+First item in a SortedDictionary? [stackoverflow discussion post](https://stackoverflow.com/questions/36918321/first-item-in-a-sorteddictionary) <br>
+
+Read more about Skip Lists<br>
+https://docs.microsoft.com/en-us/previous-versions/ms379573(v=vs.80)#skip-lists-a-linked-list-with-self-balancing-bst-like-properties
