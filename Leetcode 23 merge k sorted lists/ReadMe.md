@@ -26,4 +26,4 @@ Skip Lists - A linked list with self-balancing BST-like properties<br>
 First item in a SortedDictionary? [stackoverflow discussion post](https://stackoverflow.com/questions/36918321/first-item-in-a-sorteddictionary) <br>
 
 Read more about Skip Lists<br>
-https://docs.microsoft.com/en-us/previous-versions/ms379573(v=vs.80)#skip-lists-a-linked-list-with-self-balancing-bst-like-properties
+[Skip Lists](https://docs.microsoft.com/en-us/previous-versions/ms379573(v=vs.80)#skip-lists-a-linked-list-with-self-balancing-bst-like-properties)
