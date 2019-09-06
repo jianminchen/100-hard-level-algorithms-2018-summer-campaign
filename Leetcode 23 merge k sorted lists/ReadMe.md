@@ -15,7 +15,31 @@ http://juliachencoding.blogspot.com/search?q=merge+k+sorted+list
 Sept. 6, 2019<br>
 In order to understand SortedDictionary.First, I need to study and memorize all APIs for IEnumerable interface. I also need to customize minimum heap/ max heap according by defining key value, one tip is to use negative value to turn maximum heap to minimum heap easily. 
 
-[Here](https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.first?view=netframework-4.8) is the page I should read and memorize. 
+[Here](https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.first?view=netframework-4.8) is the page I should read and memorize. <br>
+
+
+IEnumerable Interface <br>
+
+Aggregate<br>
+All<br>
+Any<br>
+Append<br>
+AsEnumerable<br>
+Average<br>
+Cast<br>
+Concat<br>
+Contains<br>
+Count<br>
+DefaultEmpty<br>
+Distinct<br>
+ElementAt<br>
+ElementAtOrDefault<br>
+Empty<br>
+Except<br>
+First<br>
+FirstOrDefault<br>
+GroupBy<br>
+
 
 Another data structure to look into <br>
 
