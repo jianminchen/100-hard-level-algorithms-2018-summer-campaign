@@ -24,3 +24,5 @@ var words = new string[] {"bood", "beod", "besd","goot","gost","gest","best"};<b
 two paths<br>
 good->bood->beod->besd->best<br>
 good->goot->gost->gest->best<br>
+
+[Here](https://juliachencoding.blogspot.com/2019/09/case-study-126-word-ladder-ii.html) is the blog to document the mock interview, the interviewee wrote Java code and she tested the code as well. <br>
