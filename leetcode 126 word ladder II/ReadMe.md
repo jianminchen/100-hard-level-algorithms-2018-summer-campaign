@@ -41,7 +41,7 @@ My practice with a bug is [here](). I will add the source code later.
 I like to name the algorithm Leetcode 126-one path-all paths-all shortest paths series. 
 
 One path should be easy level, warmup 1 - Leetcode 126. <br>
-All pathes should be medium level. warmup 2- Leetcode 126<br>
+All paths should be medium level. warmup 2- Leetcode 126<br>
 All shrotest paths should be hard level, which is Leetcode 126. <br>
 
 
