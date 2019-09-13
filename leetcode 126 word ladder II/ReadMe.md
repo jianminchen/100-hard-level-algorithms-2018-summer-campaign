@@ -28,3 +28,12 @@ var words = new string[] {"bood", "beod", "besd","goot","gost","gest","best"};<b
 two paths<br>
 good->bood->beod->besd->best<br>
 good->goot->gost->gest->best<br>
+
+Follow up <br>
+Sept. 13, 2019<br>
+I like to brainstorm and come out all kinds of problems to solve related to word ladder. 
+
+Leetcode 126 word ladder II - find all shortest transformation sequence(s) from beginWord to endWord
+Leetcode 127 word ladder - find the length of shortest transformation sequence from beginWord to endWord
+
+Word ladder - find all paths from beginWord to endWord - ask the algorithm in mock interview, onsite interview. My practic is [here](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/leetcode%20126%20word%20ladder%20II/simple%20version%20for%20interview).
