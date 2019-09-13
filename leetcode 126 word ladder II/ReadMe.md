@@ -36,4 +36,9 @@ I like to brainstorm and come out all kinds of problems to solve related to word
 Leetcode 126 word ladder II - find all shortest transformation sequence(s) from beginWord to endWord
 Leetcode 127 word ladder - find the length of shortest transformation sequence from beginWord to endWord
 
-Word ladder - find all paths from beginWord to endWord - ask the algorithm in mock interview, onsite interview. My practic is [here](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/leetcode%20126%20word%20ladder%20II/simple%20version%20for%20interview).
+Word ladder - find all paths from beginWord to endWord - ask the algorithm in mock interview, onsite interview. My practice is [here](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/leetcode%20126%20word%20ladder%20II/simple%20version%20for%20interview).
+My practice with a bug is [here](). I will add the source code later. 
+I like to name the algorithm Leetcode 126-one path-all paths-all shortest paths series. 
+
+
+
