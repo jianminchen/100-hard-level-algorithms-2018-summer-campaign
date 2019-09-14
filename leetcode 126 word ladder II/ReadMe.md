@@ -1,5 +1,6 @@
 One of ideas to solve a hard level algorithm is to work on a few simple problems first. And after a few practice to solve simple problems, it is time to solve the hard level algorithm. 
 
+**All paths**<br>
 One of simple version Leetcode 126 is to find all paths from source word to destination word, but not minimum path. 
 
 
@@ -44,5 +45,8 @@ One path should be easy level, warmup 1 - Leetcode 126. <br>
 All paths should be medium level. warmup 2- Leetcode 126<br>
 All shrotest paths should be hard level, which is Leetcode 126. <br>
 
+**All shortest paths**<br>
+I wrote a solution for Leetcode 126 Word ladder II. I also shared my practice. <br>
+[Here](https://leetcode.com/problems/word-ladder-ii/discuss/379124/c-creative-idea-to-create-a-graph-and-then-construct-shortest-path-map-practice-in-2019) is the link. 
 
 
