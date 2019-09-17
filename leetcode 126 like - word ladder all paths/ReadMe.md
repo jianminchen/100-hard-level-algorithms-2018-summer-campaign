@@ -17,7 +17,9 @@ good -> at most 26 choices -> <br>
 good -> boot -<br>
 can you return all paths?<br>
 
+I like to document all mock interviews I have starting from Sept. 9, 2019. <br> So far I asked three times in mock interviews. 
 
+**First one - Sept. 9, 2019**<br>
 I met the interviewee on August 16, 2019. She really worked hard, and then she created a test case to find two paths from source word to destination word. <br>
 
 source = "good"; <br>
