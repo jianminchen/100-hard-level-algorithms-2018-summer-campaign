@@ -3,4 +3,4 @@ Sept. 17, 2019<br>
 
 The interviewee and I discussed the recursive function and possible stack overflow. I checked Google and stack size is 64KB. Given the word with length 5, dictionary size can up to 1 million words, and then length of path can up to 1 million as well. So it is one of concerns in terms of design of DFS function. 
 
-The interviewee stayed anonymout, but he told me that he got Microsoft, Oracle and Uber onsite. He is very competitive. 
+The interviewee stayed anonymous, but he told me that he got Microsoft, Oracle and Uber onsite. He is very competitive. 
