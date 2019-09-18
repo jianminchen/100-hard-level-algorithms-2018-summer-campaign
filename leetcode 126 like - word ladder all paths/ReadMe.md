@@ -31,7 +31,7 @@ two paths<br>
 good->bood->beod->besd->best<br>
 good->goot->gost->gest->best<br>
 
-Given a start and destination word, a list of words as a ditionary, find all paths from source to dest word, each intermediate word should be in dictionary. Each time one char is update. 
+Given a start and destination word, a list of words as a dictionary, find all paths from source to dest word, each intermediate word should be in dictionary. Each time one char is updated. 
 
 Follow up <br>
 Sept. 13, 2019<br>
