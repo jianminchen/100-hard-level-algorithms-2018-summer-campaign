@@ -31,6 +31,8 @@ two paths<br>
 good->bood->beod->besd->best<br>
 good->goot->gost->gest->best<br>
 
+Given a start and destination word, a list of words as a ditionary, find all paths from source to dest word, each intermediate word should be in dictionary. Each time one char is update. 
+
 Follow up <br>
 Sept. 13, 2019<br>
 I like to brainstorm and come out all kinds of problems to solve related to word ladder. 
