@@ -1,0 +1,1 @@
+[C# union find algorithm practice in 2019](https://leetcode.com/problems/smallest-string-with-swaps/discuss/388924/C-union-find-algorithm-practice-in-2019) is the post I wrote on Leetcode.com discussion. 
