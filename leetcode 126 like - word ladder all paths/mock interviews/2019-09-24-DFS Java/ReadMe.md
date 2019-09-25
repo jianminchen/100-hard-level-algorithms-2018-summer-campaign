@@ -1,0 +1,1 @@
+It is my determination to learn from others on this graph algorithms. I like to interview people and also cultivate strong interest in algorithm analysis, and learn from best performers related to algorithms as well. 
