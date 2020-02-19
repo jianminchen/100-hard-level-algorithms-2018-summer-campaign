@@ -16,7 +16,7 @@ Feb. 15, 2020<br>
 [Mock interviwee's experience](https://gist.github.com/jianminchen/c6cad3f30d03e7fc9f7e1891cd4df858) <br>
 
 Feb. 18, 2020<br>
-The interviewee was the manager of FANG (Facebook, Apple, Amzon, Linkedin, Microsoft, Google). He wrote the optimal solution, and also only leftmost horizontal position is found. Good design. <br>
+The interviewee was the manager of FANG (Facebook, Apple, Amazon, Linkedin, Microsoft, Google). He wrote the optimal solution, and also only leftmost horizontal position is found. Good design. I like the idea to increase the size of list based on horizontal index value.<br>
 [Feb.18, 2020 10:00 PM mock interviwe as an interviewer](http://juliachencoding.blogspot.com/2020/02/case-study-vertically-traverse-binary.html) optimal time complexity<br>
 
 
