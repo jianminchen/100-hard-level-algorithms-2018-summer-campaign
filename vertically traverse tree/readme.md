@@ -1,0 +1,1 @@
+This is the algorithm I asked in mock interview over five times. 
