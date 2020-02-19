@@ -7,6 +7,8 @@ I was told after the mock interview that the algorithm can be solved without usi
 [Feb. 9 mock interview as an interviewee](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-vertical-traverse-binary-tree-algorithm-(trial-and-error)-in-2020) <br>
 
 My performance as an interviweee on Feb. 9, 2020. <br>
+[My C# code](https://gist.github.com/jianminchen/f764c85561eb69397b3f6b87910e4b5b) Feedback see the following:<br>
+The interviewer works for Yahoo.com. He told me that there is no need to use hashMap, no need to sort keys by value in ascending order. 
 
 Feb. 15, 2020<br>
 [Mock interviwee's experience](https://gist.github.com/jianminchen/c6cad3f30d03e7fc9f7e1891cd4df858) <br>
