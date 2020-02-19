@@ -5,12 +5,12 @@ Given a binary tree, output all nodes in vertically order from left to right. If
 The algorithm is a simple version compared to [Leetcode 987 vertical order traversal of a binary tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/).
 
 Feb. 9, 2020<br>
-I was told after the mock interview that the algorithm can be solved without using hashmap, and also no need to sort keys. So I wrote the the algorithm to avoid using hashmap and sorting of keys. Here is my leetcode discussion post<br>
-[C#  vertical traverse binary tree algorithm (trial and error) in 2020](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-vertical-traverse-binary-tree-algorithm-(trial-and-error)-in-2020) <br>
-
 My performance as an interviweee on Feb. 9, 2020. <br>
 [My C# code](https://gist.github.com/jianminchen/f764c85561eb69397b3f6b87910e4b5b) Feedback see the following:<br>
 The interviewer works for Yahoo.com. He told me that there is no need to use hashMap, no need to sort keys by value in ascending order. 
+
+I was told after the mock interview that the algorithm can be solved without using hashmap, and also no need to sort keys. So I wrote the the algorithm to avoid using hashmap and sorting of keys. Here is my leetcode discussion post<br>
+[C#  vertical traverse binary tree algorithm (trial and error) in 2020](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-vertical-traverse-binary-tree-algorithm-(trial-and-error)-in-2020) <br>
 
 Feb. 15, 2020<br>
 [Mock interviwee's experience](https://gist.github.com/jianminchen/c6cad3f30d03e7fc9f7e1891cd4df858) <br>
