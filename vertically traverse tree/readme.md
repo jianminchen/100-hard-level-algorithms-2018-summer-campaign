@@ -12,6 +12,9 @@ The interviewer works for Yahoo.com. He told me that there is no need to use has
 I was told after the mock interview that the algorithm can be solved without using hashmap, and also no need to sort keys. So I wrote the the algorithm to avoid using hashmap and sorting of keys. Here is my leetcode discussion post<br>
 [C#  vertical traverse binary tree algorithm (trial and error) in 2020](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-vertical-traverse-binary-tree-algorithm-(trial-and-error)-in-2020) <br>
 
+Feb. 10, 2020 - the interviewee solved 500 algorithms on Leetcode. He solved three algorithms on my mock interview.<br>
+[C++ solution](https://gist.github.com/jianminchen/1d9becd14d75cfe3f409e07b83ce6a51) <br>
+
 Feb. 15, 2020<br>
 [Mock interviwee's experience](https://gist.github.com/jianminchen/c6cad3f30d03e7fc9f7e1891cd4df858) <br>
 
