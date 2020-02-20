@@ -12,6 +12,12 @@ The interviewer works for Yahoo.com. He told me that there is no need to use has
 I was told after the mock interview that the algorithm can be solved without using hashmap, and also no need to sort keys. So I wrote the the algorithm to avoid using hashmap and sorting of keys. Here is my leetcode discussion post<br>
 [C#  vertical traverse binary tree algorithm (trial and error) in 2020](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-vertical-traverse-binary-tree-algorithm-(trial-and-error)-in-2020) <br>
 
+Feb. 8, 2020<br>
+It is learning experience for me to watch the interviewee to fail to solve the problem. There is no place to decrease the value of horizontal value. <br>
+
+[Missing decrement of horizontal value in design](https://gist.github.com/jianminchen/1c8281f00bc94befadb69a0702e0328a) The code does not work!!!<br>
+
+
 Feb. 9, 2020 The interviewee is very hard working engineer.<br>
 [Python solution](https://gist.github.com/jianminchen/4e5fe1bf8d2899427cd4119e16c21f97) <br>
 
