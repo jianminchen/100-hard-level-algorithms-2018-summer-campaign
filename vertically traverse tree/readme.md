@@ -18,6 +18,11 @@ Feb. 9, 2020 The interviewee is very hard working engineer.<br>
 Feb. 10, 2020 - the interviewee solved 500 algorithms on Leetcode. He solved three algorithms on my mock interview.<br>
 [C++ solution](https://gist.github.com/jianminchen/1d9becd14d75cfe3f409e07b83ce6a51) <br>
 
+Feb. 14, 2020 <br>
+I also learned from the interviewee failure to solve the problem. The design should be modified to save horizontal value into Queue with node as well. <br>
+It is learning experience for the interviewee because she could not figure out how to design Queue, horizontal value should be saved for each node as well. 
+[Java code with problems](https://gist.github.com/jianminchen/12c811a9ef7a134d5f4dd9831c92ed1b) <br>
+
 Feb. 15, 2020<br>
 [Mock interviwee's experience](https://gist.github.com/jianminchen/c6cad3f30d03e7fc9f7e1891cd4df858) <br>
 
