@@ -1,4 +1,6 @@
-This is the algorithm I asked in mock interview over five times. 
+This is the algorithm I asked in mock interview over five times. I like to master the algorithm, but I could not do it by myself. What I do is to ask the algorithm in mock interviews as an interviewer, and then learn from interviewees. So far, best one is the manager of FANG companies, and I keep learning. 
+
+One most important things for me to do is to document my experience, so that I can train myself to be a best problem solver on this problem in the world one day. 
 
 Given a binary tree, output all nodes in vertically order from left to right. If two nodes are in the same horizontal position, then the order will not be specified. In other words, the nodes can be in any order. 
 
