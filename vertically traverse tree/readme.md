@@ -40,7 +40,7 @@ The interviewee was the manager of FANG (Facebook, Apple, Amazon, Linkedin, Micr
 
 
 **Questions**:<br>
-1. How long will it take me to master the algorithm? Another one month? <br>
+1. How long will it take me to master the algorithm? Another one month? Today is Feb. 20, 2020. I can plan to ask more interviewees using this algorithm. <br>
 2. My previous experience on this algorithm? <br> I had this algorithm in my 2019 onsite interview in one of FANG companies. Before that, I also wrote the solution based on study code, [here](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) is Leetcode discussion post. 
 
 
