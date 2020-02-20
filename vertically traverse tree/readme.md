@@ -6,6 +6,10 @@ Given a binary tree, output all nodes in vertically order from left to right. If
 
 The algorithm is a simple version compared to [Leetcode 987 vertical order traversal of a binary tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/).
 
+Feb. 2, 2019 8:10 PM <br>
+I wrote a solution in weekly contest 122, but I could not pass online judge. So I wrote a discussion post in the following:<br>
+[Failed test case](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/231134/c-leetcode-online-judge-for-c-test-case-is-problematic/455439) Need to figure out how to fix the issue later<br>
+
 Feb. 9, 2020<br>
 My performance as an interviweee on Feb. 9, 2020. <br>
 [My C# code](https://gist.github.com/jianminchen/f764c85561eb69397b3f6b87910e4b5b) Feedback see the following:<br>
