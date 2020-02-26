@@ -7,3 +7,5 @@ Feb. 26, 2020<br>
 
 I reviewed the algorithm on stackexchange.com, code review website. [Here](https://codereview.stackexchange.com/questions/186306/recursive-function-challenge) is the link. <br>
 
+The solution I wrote in January 2018 is [here](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/blob/master/recursive%20function%20challenge/code%20review/MaximumCalculation.cs).<br>
+
