@@ -2,6 +2,9 @@ April 3, 2020<br>
 
 The algorithm is a very good one for me to be an interviewer on interviewing.io. I like to share my experience as an interviewer, what I learn from the performance from interviewees. <br>
 
+March 3, 2020<br>
+[958 check completeness of binary tree](https://gist.github.com/jianminchen/79c74192ff531eab7960a17dccca7447) quick learner, nice discussion<br>
+
 March 14, 2020<br>
 [958 check completeness of binary tree](https://gist.github.com/jianminchen/57367e221d1e3e34343df6f4a6aa9168) Microsoft engineer, hard working, bug-free code<br>
 
