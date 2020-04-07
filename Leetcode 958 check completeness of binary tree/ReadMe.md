@@ -1,5 +1,5 @@
 March 19, 2020<br>
-[958 check completeness of binary tree](https://gist.github.com/jianminchen/9380a5d1ec5d7e0d0fd5df4dc8ba4038) 22 minutes super performance<br>
+[958 check completeness of binary tree](https://gist.github.com/jianminchen/9380a5d1ec5d7e0d0fd5df4dc8ba4038) 22 minutes bug-free code, super performance<br>
 
 April 3, 2020<br>
 
