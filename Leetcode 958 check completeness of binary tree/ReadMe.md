@@ -1,3 +1,6 @@
+March 19, 2020<br>
+[958 check completeness of binary tree](https://gist.github.com/jianminchen/9380a5d1ec5d7e0d0fd5df4dc8ba4038) 22 minutes super performance<br>
+
 April 3, 2020<br>
 
 The algorithm is a very good one for me to be an interviewer on interviewing.io. I like to share my experience as an interviewer, what I learn from the performance from interviewees. <br>
