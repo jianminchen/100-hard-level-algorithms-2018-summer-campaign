@@ -1,4 +1,8 @@
 April 3, 2020<br>
+I decided to add the algorithm in 100 hard level algorithms repository. 
+
+**March 19, 2020** <br>
+[Leetcode 33 search in rotated sorted array](https://gist.github.com/jianminchen/cda9ef8e8d11c8d3259c916f90488c16) bug free code, second algorithm in mock interview, less than 25 minutes<br>
 
 **March 31, 2020**<br>
 [Leetcode 33 search in rotated sorted array](https://juliachencoding.blogspot.com/2020/03/case-study-search-in-rotated-sorted_4.html) Interviewee has super good performance, he finished code less than 10 minutes, bug-free<br>
