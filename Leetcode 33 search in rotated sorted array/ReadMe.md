@@ -1,5 +1,5 @@
 April 3, 2020<br>
-I decided to add the algorithm in 100 hard level algorithms repository. 
+I decided to add the algorithm in 100 hard level algorithms repository. I choose to continue to learn the algorithm as an interviewer, and I will document later how many areas I should work on in order to write bug-free code, what is most important to design the algorithm, make it cut for 20 minutes performance. 
 
 **March 19, 2020** <br>
 [Leetcode 33 search in rotated sorted array](https://gist.github.com/jianminchen/cda9ef8e8d11c8d3259c916f90488c16) bug free code, second algorithm in mock interview, less than 25 minutes<br>
