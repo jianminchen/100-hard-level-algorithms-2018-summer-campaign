@@ -6,3 +6,4 @@ I like to go back to algorithm practice. After more than six month break, I like
 
 April 15, 2020<br>
 [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/581288/C-find-path-from-root-node-to-p-node-practice-in-2020) C# find path from root node to p node practice in 2020<br>
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/581405/C-Find-path-from-bottom-up-using-stack-practice-in-2020) C# Find path from bottom up using stack practice in 2020<br>
