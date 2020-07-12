@@ -9,3 +9,7 @@ I was busy working on personal finance research. I did not learn that the best p
 Blogs to document the learning<br>
 
 [Here](http://juliachencoding.blogspot.com/search?q=leetcode+947) are blogs to look up from my coding blog related to the algorithm. 
+
+July 11, 2020<br>
+
+What I like to do is to share every practice from those top ranking players on Leetcode discuss. I also like to talk about how to understand the approach as well. 
