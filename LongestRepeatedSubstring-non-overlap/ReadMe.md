@@ -35,6 +35,11 @@ DP[3,6] = DP[2,5] + 1 since str[2] == str[5] = 'G', so longest repeated substrin
 I am not sure how it works. But I just spent time to debug the code and then wrote down the ideas. <br>
 I will look into more articles related to prefix and suffix. <br>
 
+Let me reason about this dp[start, end] makes sense or not. <br>
+dp[1,4] = 1, "BGAB" has longest repeated substring "A" with length 1. From design viewpoint, from start = 0 to 6, end = 0 to 6. Since it is true that First "A" is not in "BGAB", so it makes sense that nonoverlap is satisfied. <br>
+So we have to argue that starting from index = 0, "A", "AB" (first two chars of string "ABGABG"), "ABG", "ABGA", "ABGAB" do not have repeated substring at all. <br>
+In other words, the repeated string is outside the string itself, non-overlap. 
+
 
 
 
