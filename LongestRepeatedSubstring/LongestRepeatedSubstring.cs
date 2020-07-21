@@ -10,7 +10,8 @@ namespace longest_repeated_substring
     {
         static void Main(string[] args)
         {
-            RunTestcase1(); 
+            //RunTestcase1();
+            RunTestcase2();
         }
 
         /// <summary>
@@ -19,6 +20,18 @@ namespace longest_repeated_substring
         public static void RunTestcase1()
         {
             longestRepeatedSubstring("ABGABG");
+        }
+
+        /// <summary>
+        /// longest non-overlap repeated substring - "XYXY"
+        /// The algorithm is designed for non-overlap repeated substring, so
+        /// it should return "XYXY".
+        /// 
+        /// longest overlap repeated substring - "XYXYXYXY"
+        /// </summary>
+        public static void RunTestcase2()
+        {
+            var result = longestRepeatedSubstring("XYXYXYXY");
         }
 
         /// Longest repeatable substring - 
