@@ -25,6 +25,10 @@ Next the substring "GABG" has longest repeated substring "BG", and then DP[2,5] 
 
 "BGAB" has the repeated substring, and also first and last char are the same. <br>
 "GABG" has the repeated substring, and also the first and last char are the same. <br>
+
+One thing to argue is that repeated substring ending at last position.<br>
+For example, "ABGABG|". 
+Those are bigger than zero: dp[1,4], dp[2,5], dp[3,6], since previous start and previous end are the same characters. 
 "ABG|"
 DP[3,6] = DP[2,5] + 1 since str[2] == str[5] = 'G', so longest repeated substring is "ABG".  <br>
 
