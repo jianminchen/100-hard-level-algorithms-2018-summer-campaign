@@ -13,6 +13,10 @@ Case study: <br>
 I like to work on this test case, and explain the idea how to find longest repeated substring. <br>
 Since the substring repeated is not defined in terms of length, start position and end position, so it is easy to figure out that we need to find the dynamic programming using dp[start, end], the value is longest repeated substring. <br>
 
+It is easy to figure out the longest repeated substring is "ABG". The goal is to find a substring with repeated "G", and then a substring with repeated "BG", and then longest one, a substring with repeated "ABG". <br>
+
+The most important is to build a recurrence formula to construct dynamic programming table. <br>
+
 
 
 
