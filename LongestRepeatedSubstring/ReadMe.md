@@ -16,6 +16,14 @@ Since the substring repeated is not defined in terms of length, start position a
 It is easy to figure out the longest repeated substring is "ABG". The goal is to find a substring with repeated "G", and then a substring with repeated "BG", and then longest one, a substring with repeated "ABG". <br>
 
 The most important is to build a recurrence formula to construct dynamic programming table. <br>
+"ABGABG" <br>
+ 012345  <br>
+First the substring "BGAB" has longest repeated substring "B", and then DP[1,4] = 1; <br>
+Next the substring "GABG" has longest repeated substring "BG", and then DP[2,5] = 2, the most important is to understand the recurrence formula: Dp[2,5] = Dp{1,4] + 1, since "ABGABG" at position 1, str[1] = 'B', and str[4] = 'B', so we can argue that "BG" is longest repeated substring. <br>
+
+"BGAB" has the repeated substring, and also first and last char are the same. <br>
+"GABG" has the repeated substring, and also the first and last char are the same. <br>
+
 
 
 
