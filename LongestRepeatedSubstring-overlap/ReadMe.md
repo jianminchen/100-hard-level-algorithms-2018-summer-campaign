@@ -20,7 +20,7 @@ The most important is to build a recurrence formula to construct dynamic program
 Add one char at the end of string, '|'
 "ABGABG|"
  0123456  <br>
-First the substring "BGAB" has longest repeated substring "B", and then DP[1,4] = 1; <br>
+First the substring "BGAB" has longest repeated substring "B", and then DP[1,4] = 1; End is exclusive, so "BGA" is the string, and suffix strings are "BGA", "GA" and "A".<br>
 Next the substring "GABG" has longest repeated substring "BG", and then DP[2,5] = 2, the most important is to understand the recurrence formula: Dp[2,5] = Dp[1,4] + 1, since "ABGABG" at position 1, str[1] = 'B', and str[4] = 'B', so we can argue that "BG" is longest repeated substring. <br>
 
 "BGAB" has the repeated substring, and also first and last char are the same. <br>
@@ -37,7 +37,12 @@ I will look into more articles related to prefix and suffix. <br>
 
 **Follow up on July 22, 2020**<br>
 It is a good philosophy. Work on easy level first, and also work on medium level next. But in reality, I have to learn how to solve a hard level algorithm in order to be competitive. <br>
-I like to write somethings about designing this hard level algorithm, the recurrence formula, and things should be added into a full check list before the design is final. <br>'
+I like to write somethings about designing this hard level algorithm, the recurrence formula, and things should be added into a full check list before the design is final. <br>
+Let me start from substring [2, 5]. <br>
+"ABGABG|"<br>
+ 012345<br>
+ Substring(2,5] should be "GABG". <br>
+ Actually a substring starting from beginning "ABGAB", substring(2) "GAB"'s suffix "AB" is same as prefix of "GAB", so "GAB" ...
 
 
 
