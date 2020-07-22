@@ -1,6 +1,6 @@
 July 21, 2020<br>
 
-It is tough learning experience how to solve this algorithm using dynamic programming. <br>
+It is tough learning experience how to solve this algorithm using dynamic programming. <br> I also found the algorithm called "1044. Longest Duplicate Substring" hard level on Leetcode.com. <br>
 
 Longest repeatable substring<br>
 [Here](https://www.geeksforgeeks.org/longest-repeating-and-non-overlapping-substring/) is the link on geeksforgeeks.com. <br>
