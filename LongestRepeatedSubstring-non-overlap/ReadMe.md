@@ -21,6 +21,9 @@ Add one char at the end of string, '|'
 "ABGABG|"
  0123456  <br>
 First the substring "BGAB" has longest repeated substring "B", and then DP[1,4] = 1; <br>
+"BGA" has three suffix strings: "BGA", "GA" and "A". <br>
+prefix string has one which is "A". So it is easy to tell that "A" is the repeated string in substring(1,4). Last index position 4 is exclusive, last char 'B' is not included. <br>
+
 Next the substring "GABG" has longest repeated substring "BG", and then DP[2,5] = 2, the most important is to understand the recurrence formula: Dp[2,5] = Dp[1,4] + 1, since "ABGABG" at position 1, str[1] = 'B', and str[4] = 'B', so we can argue that "BG" is longest repeated substring. <br>
 
 "BGAB" has the repeated substring, and also first and last char are the same. <br>
