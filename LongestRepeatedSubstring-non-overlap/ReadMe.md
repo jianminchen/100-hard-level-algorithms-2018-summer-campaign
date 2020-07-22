@@ -51,7 +51,8 @@ The basic idea is to find the longest repeating suffix for all prefixes in the s
 suffix - <br>
 all prefixes<br>
 For exmple, "ABGABG", dp[1, 4], "BGAB", suffix string of "BGAB" are "B","AB","GAB","BGAB". <br>
-dp[1, 4], "BGAB", all prefixes are "A". 
+dp[1, 4], "BGAB", all prefixes are "A". <br>
+dp[start, end], suffix string ends at index end - 1, but prefix string ends at start - 1. So that prefix string will never overlap the suffix string. <br>
 
 
 
