@@ -38,7 +38,7 @@ I will look into more articles related to prefix and suffix. <br>
 Let me reason about this dp[start, end] makes sense or not. <br>
 dp[1,4] = 1, "BGAB" has longest repeated substring "A" with length 1. From design viewpoint, from start = 0 to 6, end = 0 to 6. Since it is true that First "A" is not in "BGAB", so it makes sense that nonoverlap is satisfied. <br>
 So we have to argue that starting from index = 0, "A", "AB" (first two chars of string "ABGABG"), "ABG", "ABGA", "ABGAB" do not have repeated substring at all. <br>
-In other words, the repeated string is outside the string itself, non-overlap. 
+In other words, the repeated string is outside the string itself, non-overlap, and it is in the front of the substring. <br>
 
 
 
