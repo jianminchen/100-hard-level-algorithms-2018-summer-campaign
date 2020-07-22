@@ -40,6 +40,14 @@ dp[1,4] = 1, "BGAB" has longest repeated substring "A" with length 1. From desig
 So we have to argue that starting from index = 0, "A", "AB" (first two chars of string "ABGABG"), "ABG", "ABGA", "ABGAB" do not have repeated substring at all. <br>
 In other words, the repeated string is outside the string itself, non-overlap, and it is in the front of the substring. <br>
 
+Statement from geeksforgeeks.com problem solving analysis<br>
+The basic idea is to find the longest repeating suffix for all prefixes in the string str.
+
+suffix - <br>
+all prefixes<br>
+For exmple, "ABGABG", dp[1, 4], "BGAB", suffix string of "BGAB" are "B","AB","GAB","BGAB". <br>
+
+
 
 
 
