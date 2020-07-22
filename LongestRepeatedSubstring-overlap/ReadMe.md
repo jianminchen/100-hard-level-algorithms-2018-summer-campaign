@@ -35,7 +35,7 @@ DP[3,6] = DP[2,5] + 1 since str[2] == str[5] = 'G', so longest repeated substrin
 I am not sure how it works. But I just spent time to debug the code and then wrote down the ideas. <br>
 I will look into more articles related to prefix and suffix. <br>
 
-Follow up on July 22, 2020 <br>
+**Follow up on July 22, 2020**<br>
 It is a good philosophy. Work on easy level first, and also work on medium level next. But in reality, I have to learn how to solve a hard level algorithm in order to be competitive. <br>
 I like to write somethings about designing this hard level algorithm, the recurrence formula, and things should be added into a full check list before the design is final. <br>'
 
